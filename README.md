@@ -423,7 +423,7 @@ HopeAlong addresses the growing need for efficient transportation and delivery s
 
 - **Developer:** Gayathri Mainapu
 - **Email:** mgayathri312004@gmail.com
-- **GitHub:** [KhadirShaikL21](https://github.com/KhadirShaikL21)
+- **GitHub:** [Gayathri Mainapu](https://github.com/gayathri312004)
 
 
 ### **Demo Credentials**
