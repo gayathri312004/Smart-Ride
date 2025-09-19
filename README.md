@@ -1,4 +1,4 @@
-# 🚗 HopeAlong - Smart Ride Sharing & Goods Delivery Platform
+# 🚗 Smart-Ride - Ride Sharing & Goods Delivery Platform
 
 <div align="center">
 
@@ -18,17 +18,6 @@
 - **🌐 Frontend:** [https://hopealong.vercel.app](https://hopealong.vercel.app)
 - **🚀 Backend API:** [https://hopealongl21.onrender.com](https://hopealongl21.onrender.com)
 - **📱 Responsive Design:** Optimized for all devices
-
----
-
-## 👥 Development Team
-
-| Role             | Name                | Responsibilities                                       |
-| ---------------- | ------------------- | ------------------------------------------------------ |
-| **🎯 Team Lead** | **Shaik Khadir**    | Full-stack development, deployment, project management,Database design, |
-| **💻 Developer** | **Shaik Dastagiri** |   Backend development                                  |
-| **🔧 Developer** | **Jami Kishore**    |   Frontend development                                |
-| **📊 Developer** | **Paka Abhiram**    |  testing, documentation                               |
 
 ---
 
@@ -430,12 +419,12 @@ HopeAlong addresses the growing need for efficient transportation and delivery s
 
 ## 📞 Contact & Support
 
-### **Team Contact**
+### Team / Author
 
-- **Team Lead:** Shaik Khadir - [GitHub](https://github.com/KhadirShaikL21)
-- **Email:** khadirshaik2005@gmail.com
-- **Project Repository:** [HopeAlongL21](https://github.com/KhadirShaikL21/HopeAlongL21)
-- **Project Repository:**[LibnkedIn]((https://www.linkedin.com/in/khadirshaik1903/))
+- **Developer:** Gayathri Mainapu
+- **Email:** mgayathri312004@gmail.com
+- **GitHub:** [KhadirShaikL21](https://github.com/KhadirShaikL21)
+
 
 ### **Demo Credentials**
 
