@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-brightgreen?style=for-the-badge)](https://hopealong.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-brightgreen?style=for-the-badge)](https://smartride.vercel.app/)
 [![Backend API](https://img.shields.io/badge/🚀_API-Live-blue?style=for-the-badge)](https://short-url.org/httpssmarthomeonrendercom)
 [![Tech Stack](https://img.shields.io/badge/Tech-MERN_Stack-orange?style=for-the-badge)](#tech-stack)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)](#deployment)
@@ -11,12 +11,12 @@
 
 ## 🎯 Project Overview
 
-**HopeAlong** is a comprehensive, production-ready ride-sharing and goods delivery platform built with the MERN stack. This full-stack application demonstrates advanced web development skills, modern deployment practices, and real-world problem-solving capabilities.
+**Smart Ride** is a comprehensive, production-ready ride-sharing and goods delivery platform built with the MERN stack. This full-stack application demonstrates advanced web development skills, modern deployment practices, and real-world problem-solving capabilities.
 
 ### 🌟 Live Application
 
-- **🌐 Frontend:** [https://hopealong.vercel.app](https://hopealong.vercel.app)
-- **🚀 Backend API:** [https://hopealongl21.onrender.com](https://hopealongl21.onrender.com)
+- **🌐 Frontend:** [https://smartride.vercel.app](https://smartride.vercel.app)
+- **🚀 Backend API:** [https://smartridel21.onrender.com](https://smartridel21.onrender.com)
 - **📱 Responsive Design:** Optimized for all devices
 
 ---
@@ -168,8 +168,8 @@ _Instant communication between users_
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/KhadirShaikL21/HopeAlongL21.git
-cd HopeAlongL21
+git clone https://github.com/gayatri312004/smartride.git
+cd SmartRideL21
 
 # 2. Backend Setup
 cd server
@@ -179,7 +179,7 @@ cp .env.example .env
 npm run dev
 
 # 3. Frontend Setup
-cd ../hopealong-frontend
+cd ../smartride-frontend
 npm install
 npm run dev
 ```
@@ -205,7 +205,7 @@ RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 #### Frontend (.env.production)
 
 ```env
-VITE_API_URL=https://hopealongl21.onrender.com
+VITE_API_URL=https://smartridel21.onrender.com
 ```
 
 ---
@@ -385,7 +385,7 @@ HopeAlongL21/
 
 ### **Problem Solved**
 
-HopeAlong addresses the growing need for efficient transportation and delivery services by connecting users with available drivers and delivery personnel in real-time.
+SmartRide addresses the growing need for efficient transportation and delivery services by connecting users with available drivers and delivery personnel in real-time.
 
 ### **Market Opportunity**
 
@@ -428,7 +428,7 @@ HopeAlong addresses the growing need for efficient transportation and delivery s
 
 ### **Demo Credentials**
 
-- **Email:** demo@hopealong.com
+- **Email:** demo@smartride.com
 - **Password:** demo123
 - **Or use Google OAuth for instant access**
 
@@ -444,7 +444,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 **Ready for Production • Scalable • Secure** 🌟
 
-**[🚀 View Live Application](https://hopealong.vercel.app) | [📚 Explore API](https://hopealongl21.onrender.com)**
+**[🚀 View Live Application](https://smartride.vercel.app) | [📚 Explore API](https://smartridel21.onrender.com)**
 
 _Built with ❤️ by the HopeAlong Team_
 
