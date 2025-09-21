@@ -444,7 +444,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### 🌟 **Ready for Production • Scalable • Secure** 🌟
 
-**[🚀 View Live Application](https://smartride.vercel.app) | [📚 Explore API](https://smartridel21.onrender.com)**
+<a href="https://hopealong.vercel.app" target="_blank">🚀 View Live Application</a> | 
+<a href="https://hopealongl21.onrender.com" target="_blank">📚 Explore API</a>
+
 
 _Built with ❤️ by the HopeAlong Team_
 
