@@ -21,10 +21,10 @@ HopeAlong is a comprehensive ride-sharing and goods delivery platform that conne
 
 | **Role** | **Name** | **Responsibilities** |
 |----------|----------|---------------------|
-| **Team Lead** | **Shaik Khadir** | Project architecture, backend development, deployment management, team coordination |
-| **Full-Stack Developer** | **Shaik Dastagiri** | Frontend development, UI/UX implementation, component development |
-| **Frontend Developer** | **Jami Kishore** | React components, state management, user interface design |
-| **Backend Developer** | **Paka Abhiram** | API development, database design, authentication systems |
+| **Team Lead** | **Durga Uma Ram charan** | Project architecture, backend development, deployment management, team coordination |
+| **Full-Stack Developer** | **M Gayathri** | Frontend development, UI/UX implementation, component development |
+| **Frontend Developer** | **Chathurya** | React components, state management, user interface design |
+| **Backend Developer** | **N Sanjana Rajeswari** | API development, database design, authentication systems |
 
 ---
 
@@ -468,7 +468,7 @@ The project serves as an excellent demonstration of full-stack development capab
 
 ## Repository Information
 
-**GitHub Repository:** [https://github.com/KhadirShaikL21/HopeAlongL21](https://github.com/KhadirShaikL21/HopeAlongL21)  
+**GitHub Repository:** [https://github.com/gayathri312004/HopeAlongL2](https://github.com/gayathri312004/HopeAlongL21)  
 **Live Application:** [https://hopealong.vercel.app](https://hopealong.vercel.app)  
 **API Documentation:** Available at backend URL + `/api/docs`
 
@@ -477,5 +477,5 @@ The project serves as an excellent demonstration of full-stack development capab
 *This documentation was prepared by the HopeAlong development team for academic and professional evaluation purposes.*
 
 **Document Version:** 1.0  
-**Last Updated:** January 2025  
+**Last Updated:** September 2025  
 **Prepared for:** Academic Mentors and Project Evaluation
