@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-brightgreen?style=for-the-badge)](https://smartride.vercel.app/)
-[![Backend API](https://img.shields.io/badge/🚀_API-Live-blue?style=for-the-badge)](https://short-url.org/httpssmarthomeonrendercom)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Available-brightgreen?style=for-the-badge)]( https://hopealong.vercel.app)
+[![Backend API](https://img.shields.io/badge/🚀_API-Live-blue?style=for-the-badge)](https://hopealongl21.onrender.com)
 [![Tech Stack](https://img.shields.io/badge/Tech-MERN_Stack-orange?style=for-the-badge)](#tech-stack)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)](#deployment)
 
