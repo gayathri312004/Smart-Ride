@@ -15,10 +15,8 @@
 
 ### 🌟 Live Application
 
-- **🌐 Frontend:** [https://smartride.vercel.app]( https://hopealong.vercel.app)
-- **🚀 Backend API:** [https://smartridel21.onrender.com](https://hopealongl21.onrender.com)
-- **📱 Responsive Design:** Optimized for all devices
-
+- **🌐 Frontend:** Frontend: https://hopealong.vercel.app
+- **🚀 Backend API:**  https://hopealongl21.onrender.com
 ---
 
 ## 🚀 Key Features & Capabilities
